@@ -1,0 +1,28 @@
+[submodule "knossos"]
+	path = knossos
+	url = https://github.com/modrinth/knossos
+	branch = sveltekit-rewrite
+[submodule "labrinth"]
+	path = labrinth
+	url = https://github.com/modrinth/labrinth
+[submodule "minotaur"]
+	path = minotaur
+	url = https://github.com/modrinth/minotaur
+[submodule "sisyphus"]
+	path = sisyphus
+	url = https://github.com/modrinth/sisyphus
+[submodule "omorphia"]
+	path = omorphia
+	url = https://github.com/modrinth/omorphia
+[submodule "theseus"]
+	path = theseus
+	url = https://github.com/modrinth/theseus
+[submodule "daedalus"]
+	path = daedalus
+	url = https://github.com/modrinth/daedalus
+[submodule "ariadne"]
+	path = ariadne
+	url = https://github.com/modrinth/ariadne
+[submodule "minos"]
+	path = minos
+	url = https://github.com/modrinth/minos
